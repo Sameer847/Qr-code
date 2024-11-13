@@ -41,6 +41,7 @@ h3, p {
 h3 {
   width: 240px;
   font-size: 21px;
+  color: hsl(218, 44%, 22%);
 }
 p {
   width: 254px;
